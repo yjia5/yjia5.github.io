@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
+Coding and cooking are two things that I hardly feel tired of. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
