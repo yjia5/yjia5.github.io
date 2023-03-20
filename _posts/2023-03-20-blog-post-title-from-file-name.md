@@ -16,7 +16,7 @@ It is supposed to solve the problme by including the font library by python code
 import matplotlib.font_manager as font_manager
 
 # Add every font at the specified location
-font_dir = ["YOUR_FONT_DIRECTORY"]
+font_dir = ["YOUR_FONT_LIBRARY"]
 for font in font_manager.findSystemFonts(font_dir):
     font_manager.fontManager.addfont(font)
 ```
