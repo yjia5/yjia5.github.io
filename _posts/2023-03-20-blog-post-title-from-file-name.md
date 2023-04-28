@@ -30,3 +30,8 @@ which show the path of font `DejaVu`: `DEFAULT_PATH`. Then you can copy the font
 ```
 cp YOUR_FONT_LIBRARY/* DEFAULT_PATH
 ```
+Then you need to remove the old cache of Matplotlib as
+
+```
+rm -r ~/.cache/matplotlib/
+```
