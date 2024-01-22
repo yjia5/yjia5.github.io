@@ -1,4 +1,4 @@
-Study Octopus: compare with VASP
+## Study Octopus: compare with VASP
 1.	The parameters of the same meaning compared with VASP
 Octopus	VASP
 SymmetriesTolerance	SYMPREC
